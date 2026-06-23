@@ -23,12 +23,12 @@ This project is aligned with the **United Nations Sustainable Development Goal 3
 | **Module** | COMP 102 – Introduction to Database |
 | **Examiner** | Sheik Umar Kanu |
 | **Project Type** | Group Final Project (35% of module) |
-| **Submission** | Week 11 |
+| **Submission** | Week 12 |
 | **Campus** | Limkokwing University – Sierra Leone |
 
----1	LENNARD BEN	KANU	905005868
-  2	AMADU BORBOH	BAH	905005866
-3	BERICK  BORBORDEEN	AJUNO-SESAY	905005872
+---|1	LENNARD BEN	KANU	905005868|
+   |2	AMADU BORBOH	BAH	905005866 |
+   |3	BERICK  BORBORDEEN	AJUNO-SESAY	905005872|
 
 
 ## 🎯 Project Objectives
